@@ -1,0 +1,9 @@
+[book]
+authors = ["hateisse, amouflet"]
+language = "fr"
+multilingual = false
+src = "src"
+title = "Base de connaissance pour le projet MiniRT"
+
+[output.html]
+mathjax-support = true

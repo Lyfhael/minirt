@@ -1,0 +1,2 @@
+Base de connaissance pour aider dans notre progression de minirt. Cette documentation prend la forme d'un site web, grace à [mdbook](https://rust-lang.github.io/mdBook/).
+Lancer avec la commande mdbook serve --open
